@@ -15,7 +15,7 @@ public class Ailments extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ailments);
         OnClickListener Listener = new OnClickListener() {
-
+test
 
             @Override
             public void onClick(View view) {
