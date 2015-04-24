@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created by gerad on 4/23/2015.
+ * Created by Gerad, Robert, Luke, and Eric on 4/23/2015.
  */
 public class Allergies extends Activity {
 
