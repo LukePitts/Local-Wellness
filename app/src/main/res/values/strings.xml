@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LocalHealth</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button1">Allergies</string>
+    <string name="button2">Migraines</string>
+    <string name="button3">Common Cold/FLU</string>
+
+
+
+    <string name="button4">Over the counter medication</string>
+    <string name="button5">Prescription medication </string>
+    <string name="button6">Local Specialist</string>
+
+    <string name="checkBox1">yes I agree to the terms and conditions</string>
+    <string name="checkBox2">no I don\'t agree to the terms and conditions</string>
+    <string name="checkBox3">Don\'t display this again</string>
+    <string name="terms">I have read and agree to the Terms and Conditions. Information provided in this software is for information purpose only and does not imply Patient-Physician relationship in any way. I will consult my Doctor before using any medicine</string>
+</resources>
