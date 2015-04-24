@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Eric Chase, Gerad Spencer, Luke Pitts, Rob Hoehle, Test-->
+<!--Eric Chase, Gerad Spencer, Luke Pitts, Rob Hoehle-->
 
 <Ailments>
   <Ailment id="1" name="Allergies">
@@ -23,23 +23,23 @@
            
         </Drug>
         
-        <Drug name="Lidocaine">
-           <GenericName>Benzocaine</GenericName>
+        <Drug name="Benzocaine">
+           <GenericName>Lidocaine</GenericName>
         </Drug>
       
       </Treatment>
        
       <Treatment id="2" name="Respiratory">
         
-         <Drug name="Epinephrine inhilation">
-           <GenericName>Primatine</GenericName>
+         <Drug name="Epinephrine inhalation">
+           <GenericName>Primatine Mist</GenericName>
          </Drug>
       
       </Treatment>
        
       <Treatment id="3" name="Nasal">
         
-         <Drug name="Fluticasone">
+         <Drug name="Fluticasone Propionate">
            <GenericName>Flonase</GenericName>
          </Drug>
         
@@ -65,12 +65,12 @@
      <RX>
        <Treatment id="1" name="Topical">
          
-        <Drug name="Cortico Steriods">
+        <Drug name="Corticosteriods">
            <GenericName>Many Brands Available</GenericName>
         </Drug>
          
         <Drug name="Topical H1 Blockers">
-           <GenericName>Many Brands Available</GenericName>
+           <GenericName>Betamethasone</GenericName>
         </Drug>    
        
       </Treatment>
