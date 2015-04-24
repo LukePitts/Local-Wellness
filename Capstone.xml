@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Eric Chase, Gerad Spencer, Luke Pitts, Rob Hoehle-->
+
+<Ailments>
+  <Ailment id="1" name="Allergies">
+    <Treatments>
+     <OTC>
+      <Treatment id="1" name="Topical">
+        
+        <Drug name="Hydrocortisone">
+           <GenericName>Cortizone</GenericName>
+        </Drug>
+        
+        <Drug name="Diphenhydramine">
+           <GenericName>Benadryl</GenericName>
+        </Drug>
+        
+        <Drug name="Calamine">
+           
+        </Drug>
+        
+        <Drug name="Colloidal oatmeal">
+           
+        </Drug>
+        
+        <Drug name="Lidocaine">
+           <GenericName>Benzocaine</GenericName>
+        </Drug>
+      
+      </Treatment>
+       
+      <Treatment id="2" name="Respiratory">
+        
+         <Drug name="Epinephrine inhilation">
+           <GenericName>Primatine</GenericName>
+         </Drug>
+      
+      </Treatment>
+       
+      <Treatment id="3" name="Nasal">
+        
+         <Drug name="Fluticasone">
+           <GenericName>Flonase</GenericName>
+         </Drug>
+        
+         <Drug name="Triamcinolone">
+           <GenericName>Nasacort</GenericName>
+         </Drug>
+        
+         <Drug name="Pheniramine">
+           <GenericName>Opcon-A</GenericName>
+         </Drug>
+       
+      </Treatment>
+       
+      <Treatment id="4" name="Eye">
+        
+         <Drug name="Pheniramine">
+           <GenericName>Opcon-A</GenericName>
+         </Drug>
+     
+      </Treatment>
+     </OTC>
+      
+     <RX>
+       <Treatment id="1" name="Topical">
+         
+        <Drug name="Cortico Steriods">
+           <GenericName>Many Brands Available</GenericName>
+        </Drug>
+         
+        <Drug name="Topical H1 Blockers">
+           <GenericName>Many Brands Available</GenericName>
+        </Drug>    
+       
+      </Treatment>
+       
+      <Treatment id="2" name="Respiratory">
+        
+        <Drug name="H1 Blockers">
+           <GenericName>Many Brands Available</GenericName>
+           <Info>Normally in Pill form</Info>
+        </Drug>
+       
+      </Treatment>
+       
+      <Treatment id="3" name="Nasal">
+        
+        <Drug name="Nasal Cortico Steriods">
+           <GenericName>Many Brands Available</GenericName>
+        </Drug>
+      
+      </Treatment>
+       
+      <Treatment id="4" name="Eye">
+        
+         <Drug name="H1 Blockers">
+           <GenericName>Many Brands Available</GenericName>
+         </Drug>
+      
+      </Treatment>
+     </RX>
+     <Specialist>
+      
+     </Specialist>
+    </Treatments>
+  </Ailment>
+
+  <Ailment id="2" name="Sick">
+    <Treatments>
+     <OTC>
+       <Drug name="" id="1">
+         
+       </Drug>
+      <Drug name="" id="2">
+         
+       </Drug>
+       <Drug name="" id="3">
+         
+       </Drug>
+      <Drug name="" id="4">
+         
+       </Drug>
+     </OTC>
+     <RX>
+       <Drug name="" id="1">
+         
+       </Drug>
+      <Drug name="" id="2">
+         
+       </Drug>
+       <Drug name="" id="3">
+         
+       </Drug>
+      <Drug name="" id="4">
+         
+       </Drug>
+     </RX>
+     <Specialist>
+      
+     </Specialist>
+    </Treatments>
+  </Ailment>
+
+  <Ailment id="3" name="Digestive">
+    <Treatments>
+     <OTC>
+       <Drug name="" id="1">
+         
+       </Drug>
+      <Drug name="" id="2">
+         
+       </Drug>
+       <Drug name="" id="3">
+         
+       </Drug>
+      <Drug name="" id="4">
+         
+       </Drug>
+     </OTC>
+     <RX>
+       <Drug name="" id="1">
+         
+       </Drug>
+      <Drug name="" id="2">
+         
+       </Drug>
+       <Drug name="" id="3">
+         
+       </Drug>
+      <Drug name="" id="4">
+         
+       </Drug>
+     </RX>
+     <Specialist>
+      
+     </Specialist>
+    </Treatments>
+  </Ailment>
+  
+
+
+  <Disclaimer>
+    I have read and agree to the Terms and Conditions. Information provided in this software is for information purpose only and does not imply Patient-Physician relationship in any way. I will consult my Doctor before using any medicine
+    
+    <Terms>
+      We know that there are several thousand over-the-counter medications out there accessible via the internet, retail outlets and pharmacies. In order to provide a manageable list of medications so that intelligent and informed decisions can be made by the user to resolve common everyday ailments.
+
+      Providing YOU legitimate options for your care without replacing your doctor or pharmacist, we have taken the time to compare a list of available products.
+
+      This next part is the most important, so please read and understand the following terms of use for this application.
+
+      1.	Consult your doctor if the condition worsens or if specific symptoms persist after 2 days, or have a persistent chronic condition. Remember, these are symptoms of what could be a deeper underlying problem which may require the expertise of your doctor. The corresponding medications are only indicated to provide temporary relief.
+      2.	If you have any underlying condition or state or disease state.
+      3.	Do not use if you are allergic to any active, inactive or other ingredients in the medication or product.
+      4.	Read and follow all general and specific label medication product warnings, do not use warnings, drug facts, indications, use and purpose guidelines, specific dosing information, supplement facts and directions, before using any product or medication.
+      5.	The statements and claims contained herein have been taken directly from the manufacture and are based on historical practice and usage. They have not been evaluated by the FDA. The contents of the application and products contained herein are not intended to diagnose, treat, cure or prevent any disease. This data is for information only.
+      6.	Purchase terms enable you to a one year license of the application and its related functions.
+      7.	Updates will be available frequently as over the counter medication usage guidelines, warning and status can change.
+      8.	FDA regulates both finished dietary supplement products and dietary ingredients under a different set of regulation than those covering "conventional" foods and drug products(prescription and Over the counter). In addition the manufacturer, packer, or distributer whose name appears on the label of a dietary supplement marketed in the united states required to submit to FDA all serious adverse event reports associated with use of the dietary supplement in the united states.
+    </Terms>
+    
+  </Disclaimer>
+    
+</Ailments>
