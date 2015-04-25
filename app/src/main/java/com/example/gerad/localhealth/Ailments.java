@@ -36,7 +36,6 @@ public class Ailments extends Activity {
                 }
             };
 
-            View.OnClickListener listener2 = new OnClickListener() {
             OnClickListener listener2 = new OnClickListener() {
                 public void onClick(View view) {
 
