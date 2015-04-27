@@ -17,6 +17,7 @@ public class Disclaimer extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.disclaimer);
+
         OnClickListener Listener = new OnClickListener() {
 
             @Override

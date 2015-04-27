@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:baselineAligned="false"
+    android:layout_marginTop="1dp"
+    android:paddingBottom="1dp"
+    android:background="#fff2ff00"
+    android:orientation="vertical"
+    tools:context=".Disclaimer">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="273dp"
+             android:textStyle="bold"
+             android:textSize="12pt"
+            android:text="@string/terms"
+            android:id="@+id/textView" />
+
+        <CheckBox
+        android:layout_marginBottom="39dp"
+        android:text="@string/checkBox1"
+        android:id="@+id/checkBox1"
+        android:layout_height="77dp"
+        android:layout_width="match_parent"
+        android:layout_column="12"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignParentLeft="true" />
+
+    <CheckBox
+        android:text="@string/checkBox2"
+        android:id="@+id/checkBox2"
+        android:layout_height="77dp"
+        android:layout_width="match_parent"
+        android:layout_column="12"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignParentLeft="true" />
+
+
+
+        <CheckBox
+            android:text="@string/checkBox3"
+            android:id="@+id/checkBox3"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_column="0"
+            android:layout_alignTop="@+id/checkBox2"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="37dp" />
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
